@@ -87,6 +87,10 @@ author{
   color: #000000;
 }
 
+body {
+  background-color: #ffffff;
+}
+
 a{
   /* font-family: 'Lato', Verdana, Calibri, sans-serif; */
   font-family: 'Lato', Calibri, sans-serif;
@@ -116,6 +120,14 @@ name {
   font-family: 'Lato', Calibri, sans-serif;
   font-size: 36px;
   color: #000000;
+}
+
+.subtitle {
+  text-align: center;
+  margin-top: -6px;
+  margin-bottom: 16px;
+  font-weight: 700;
+  color: #333333;
 }
 
 .one {
